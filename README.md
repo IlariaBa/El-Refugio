@@ -1,4 +1,4 @@
-#"El Refugio"
+<h1>"El Refugio"</h1>
 
 This project is born as the final project for the FullStack Bootcamp at 4GeeksAcademy.
 It arises from the need to facilitate the adoption process and it is focused for a fictitus non-profit NGO.
