@@ -14,4 +14,4 @@ With only a few clicks the users can axplore animal profiles, learn more about t
 
 <h2>Preview</h2>
 
-![El Refugio (6)](https://github.com/IlariaBa/El-Refugio/assets/145076192/13db31a1-39d6-4d39-99ce-5a2e245e5de5)
+![El Refugio (3) (1)](https://github.com/IlariaBa/El-Refugio/assets/145076192/dfe35ab4-41e6-4b3e-b216-ecaf287fdcad)
