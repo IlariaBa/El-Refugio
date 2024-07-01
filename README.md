@@ -36,3 +36,13 @@ With only a few clicks the users can axplore animal profiles, learn more about t
 
 ![peluditos1](https://github.com/IlariaBa/El-Refugio/assets/145076192/d1eb7499-bfe6-4774-ad99-08d6ce4fe7e3)
 ![peluditos2](https://github.com/IlariaBa/El-Refugio/assets/145076192/dca444e3-3d91-4bac-80b8-140d3d1516b9)
+
+<h3>Animal Info</h3>
+
+![ficha peludito](https://github.com/IlariaBa/El-Refugio/assets/145076192/3d5cf80a-84c9-4618-a85a-929abdbb3308)
+
+<h3>Dashboard</h3>
+
+![dashboard](https://github.com/IlariaBa/El-Refugio/assets/145076192/a0b44467-c982-44a8-8981-2a49e66e43d1)
+![dashboard2](https://github.com/IlariaBa/El-Refugio/assets/145076192/c27372ab-eb4a-4723-9128-91bacdcdf3f6)
+
