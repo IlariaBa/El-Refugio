@@ -20,8 +20,9 @@ With only a few clicks the users can axplore animal profiles, learn more about t
 
 ![inicio1](https://github.com/IlariaBa/El-Refugio/assets/145076192/4d23e077-c517-4466-a374-b141cd824bf5)
 ![inicio2](https://github.com/IlariaBa/El-Refugio/assets/145076192/d6e4f6b9-de84-42d4-8a37-4b6325686eba)
-![inicio4](https://github.com/IlariaBa/El-Refugio/assets/145076192/36c0b4f2-0b21-4860-93c9-40d70e3db174)
 ![inicio3](https://github.com/IlariaBa/El-Refugio/assets/145076192/9d7a26cf-3911-4173-a0a2-aa18977d30a4)
+![inicio4](https://github.com/IlariaBa/El-Refugio/assets/145076192/36c0b4f2-0b21-4860-93c9-40d70e3db174)
+
 
 <h3>Login</h3>
 
